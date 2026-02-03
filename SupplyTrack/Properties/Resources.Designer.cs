@@ -73,16 +73,6 @@ namespace SupplyTrack.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap icons8_exit_100 {
-            get {
-                object obj = ResourceManager.GetObject("icons8-exit-100", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap icons8_exit_50 {
             get {
                 object obj = ResourceManager.GetObject("icons8-exit-50", resourceCulture);
