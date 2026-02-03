@@ -35,7 +35,7 @@
             this.txtPassword = new System.Windows.Forms.TextBox();
             this.close = new System.Windows.Forms.Label();
             this.btnLogin = new System.Windows.Forms.Button();
-            this.label4 = new System.Windows.Forms.Label();
+            this.lbClear = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -96,6 +96,7 @@
             // 
             // btnLogin
             // 
+            this.btnLogin.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.btnLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnLogin.Font = new System.Drawing.Font("Bookman Old Style", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogin.Location = new System.Drawing.Point(165, 290);
@@ -103,26 +104,26 @@
             this.btnLogin.Size = new System.Drawing.Size(225, 39);
             this.btnLogin.TabIndex = 6;
             this.btnLogin.Text = "Login";
-            this.btnLogin.UseVisualStyleBackColor = true;
+            this.btnLogin.UseVisualStyleBackColor = false;
             // 
-            // label4
+            // lbClear
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Bookman Old Style", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(248, 341);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(55, 21);
-            this.label4.TabIndex = 7;
-            this.label4.Text = "Clear";
+            this.lbClear.AutoSize = true;
+            this.lbClear.Font = new System.Drawing.Font("Bookman Old Style", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbClear.Location = new System.Drawing.Point(248, 341);
+            this.lbClear.Name = "lbClear";
+            this.lbClear.Size = new System.Drawing.Size(55, 21);
+            this.lbClear.TabIndex = 7;
+            this.lbClear.Text = "Clear";
             // 
-            // Authentication
+            // AuthenticationForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(494, 433);
-            this.Controls.Add(this.label4);
+            this.Controls.Add(this.lbClear);
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.close);
             this.Controls.Add(this.txtPassword);
@@ -131,7 +132,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Authentication";
+            this.Name = "AuthenticationForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
             this.ResumeLayout(false);
@@ -148,7 +149,7 @@
         private System.Windows.Forms.TextBox txtPassword;
         private System.Windows.Forms.Label close;
         private System.Windows.Forms.Button btnLogin;
-        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label lbClear;
     }
 }
 

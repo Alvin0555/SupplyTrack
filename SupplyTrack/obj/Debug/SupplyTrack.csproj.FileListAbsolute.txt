@@ -1,0 +1,11 @@
+C:\MyProjects\WindowsFormApplications\2026\SupplyTrack\SupplyTrack\obj\Debug\SupplyTrack.csproj.AssemblyReference.cache
+C:\MyProjects\WindowsFormApplications\2026\SupplyTrack\SupplyTrack\obj\Debug\SupplyTrack.AuthenticationForm.resources
+C:\MyProjects\WindowsFormApplications\2026\SupplyTrack\SupplyTrack\obj\Debug\SupplyTrack.ProductForm.resources
+C:\MyProjects\WindowsFormApplications\2026\SupplyTrack\SupplyTrack\obj\Debug\SupplyTrack.csproj.GenerateResource.cache
+C:\MyProjects\WindowsFormApplications\2026\SupplyTrack\SupplyTrack\bin\Debug\SupplyTrack.exe.config
+C:\MyProjects\WindowsFormApplications\2026\SupplyTrack\SupplyTrack\bin\Debug\SupplyTrack.exe
+C:\MyProjects\WindowsFormApplications\2026\SupplyTrack\SupplyTrack\bin\Debug\SupplyTrack.pdb
+C:\MyProjects\WindowsFormApplications\2026\SupplyTrack\SupplyTrack\obj\Debug\SupplyTrack.Properties.Resources.resources
+C:\MyProjects\WindowsFormApplications\2026\SupplyTrack\SupplyTrack\obj\Debug\SupplyTrack.csproj.CoreCompileInputs.cache
+C:\MyProjects\WindowsFormApplications\2026\SupplyTrack\SupplyTrack\obj\Debug\SupplyTrack.exe
+C:\MyProjects\WindowsFormApplications\2026\SupplyTrack\SupplyTrack\obj\Debug\SupplyTrack.pdb
